@@ -6,7 +6,9 @@ namespace ClassLibraryFinalAssessment
     {
         public String acceptanceList(String selectedResumeList)
         {
-            return "Acceptance list after final assessment of the " + selectedResumeList;
+            String acceptedResumeList = "Final Accepted Resume List";
+            Console.WriteLine("Providing acceptance list after final assessment of the "+selectedResumeList+"...");
+            return acceptedResumeList;
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\ClassLibraryFinalAssessment\\ClassLibraryFinalAssessment\\ClassLibraryFinalAssessment.csproj": {}
+    "C:\\Users\\ASUS\\source\\repos\\Sequential Component Composition\\ClassLibraryFinalAssessment\\ClassLibraryFinalAssessment\\ClassLibraryFinalAssessment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\ClassLibraryFinalAssessment\\ClassLibraryFinalAssessment\\ClassLibraryFinalAssessment.csproj": {
+    "C:\\Users\\ASUS\\source\\repos\\Sequential Component Composition\\ClassLibraryFinalAssessment\\ClassLibraryFinalAssessment\\ClassLibraryFinalAssessment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\ClassLibraryFinalAssessment\\ClassLibraryFinalAssessment\\ClassLibraryFinalAssessment.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Sequential Component Composition\\ClassLibraryFinalAssessment\\ClassLibraryFinalAssessment\\ClassLibraryFinalAssessment.csproj",
         "projectName": "ClassLibraryFinalAssessment",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\ClassLibraryFinalAssessment\\ClassLibraryFinalAssessment\\ClassLibraryFinalAssessment.csproj",
+        "projectPath": "C:\\Users\\ASUS\\source\\repos\\Sequential Component Composition\\ClassLibraryFinalAssessment\\ClassLibraryFinalAssessment\\ClassLibraryFinalAssessment.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\ClassLibraryFinalAssessment\\ClassLibraryFinalAssessment\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\source\\repos\\Sequential Component Composition\\ClassLibraryFinalAssessment\\ClassLibraryFinalAssessment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
