@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\ClassLibraryInitialScreening\ClassLibraryInitialScreening\bin\Debug\net5.0\ClassLibraryInitialScreening.deps.json
+C:\Users\ASUS\source\repos\ClassLibraryInitialScreening\ClassLibraryInitialScreening\bin\Debug\net5.0\ClassLibraryInitialScreening.dll
+C:\Users\ASUS\source\repos\ClassLibraryInitialScreening\ClassLibraryInitialScreening\bin\Debug\net5.0\ref\ClassLibraryInitialScreening.dll
+C:\Users\ASUS\source\repos\ClassLibraryInitialScreening\ClassLibraryInitialScreening\bin\Debug\net5.0\ClassLibraryInitialScreening.pdb
+C:\Users\ASUS\source\repos\ClassLibraryInitialScreening\ClassLibraryInitialScreening\obj\Debug\net5.0\ClassLibraryInitialScreening.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ClassLibraryInitialScreening\ClassLibraryInitialScreening\obj\Debug\net5.0\ClassLibraryInitialScreening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ClassLibraryInitialScreening\ClassLibraryInitialScreening\obj\Debug\net5.0\ClassLibraryInitialScreening.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ClassLibraryInitialScreening\ClassLibraryInitialScreening\obj\Debug\net5.0\ClassLibraryInitialScreening.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ClassLibraryInitialScreening\ClassLibraryInitialScreening\obj\Debug\net5.0\ClassLibraryInitialScreening.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ClassLibraryInitialScreening\ClassLibraryInitialScreening\obj\Debug\net5.0\ClassLibraryInitialScreening.dll
+C:\Users\ASUS\source\repos\ClassLibraryInitialScreening\ClassLibraryInitialScreening\obj\Debug\net5.0\ref\ClassLibraryInitialScreening.dll
+C:\Users\ASUS\source\repos\ClassLibraryInitialScreening\ClassLibraryInitialScreening\obj\Debug\net5.0\ClassLibraryInitialScreening.pdb
