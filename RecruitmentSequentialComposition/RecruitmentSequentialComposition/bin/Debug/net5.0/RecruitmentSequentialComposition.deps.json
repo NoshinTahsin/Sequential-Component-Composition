@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RecruitmentSequentialComposition/1.0.0": {
+        "dependencies": {
+          "ClassLibraryFinalAssessment": "1.0.0.0",
+          "ClassLibraryInitialScreening": "1.0.0.0",
+          "ClassLibraryResumeProvider": "1.0.0.0"
+        },
+        "runtime": {
+          "RecruitmentSequentialComposition.dll": {}
+        }
+      },
+      "ClassLibraryFinalAssessment/1.0.0.0": {
+        "runtime": {
+          "ClassLibraryFinalAssessment.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ClassLibraryInitialScreening/1.0.0.0": {
+        "runtime": {
+          "ClassLibraryInitialScreening.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ClassLibraryResumeProvider/1.0.0.0": {
+        "runtime": {
+          "ClassLibraryResumeProvider.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RecruitmentSequentialComposition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryFinalAssessment/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryInitialScreening/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryResumeProvider/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
