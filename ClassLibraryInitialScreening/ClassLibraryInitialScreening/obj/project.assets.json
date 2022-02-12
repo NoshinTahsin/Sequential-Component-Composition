@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\ClassLibraryInitialScreening\\ClassLibraryInitialScreening\\ClassLibraryInitialScreening.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Sequential Component Composition\\ClassLibraryInitialScreening\\ClassLibraryInitialScreening\\ClassLibraryInitialScreening.csproj",
       "projectName": "ClassLibraryInitialScreening",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\ClassLibraryInitialScreening\\ClassLibraryInitialScreening\\ClassLibraryInitialScreening.csproj",
+      "projectPath": "C:\\Users\\ASUS\\source\\repos\\Sequential Component Composition\\ClassLibraryInitialScreening\\ClassLibraryInitialScreening\\ClassLibraryInitialScreening.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\ClassLibraryInitialScreening\\ClassLibraryInitialScreening\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\source\\repos\\Sequential Component Composition\\ClassLibraryInitialScreening\\ClassLibraryInitialScreening\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

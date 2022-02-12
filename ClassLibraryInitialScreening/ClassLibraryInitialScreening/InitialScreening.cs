@@ -6,7 +6,9 @@ namespace ClassLibraryInitialScreening
     {
         public String provideSelected(String AllResumeList)
         {
-            return "Provide selected resume list after initial screening of the " + AllResumeList;
+            String selectedResumeList = "Selected Resume List";
+            Console.WriteLine("Providing selected resume list after initial screening of the " + AllResumeList+"...");
+            return selectedResumeList;
         }
     }
 }
