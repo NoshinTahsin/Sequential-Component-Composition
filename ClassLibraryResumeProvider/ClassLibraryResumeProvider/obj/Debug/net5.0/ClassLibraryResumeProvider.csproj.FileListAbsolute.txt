@@ -10,3 +10,15 @@ C:\Users\ASUS\source\repos\ClassLibraryResumeProvider\ClassLibraryResumeProvider
 C:\Users\ASUS\source\repos\ClassLibraryResumeProvider\ClassLibraryResumeProvider\obj\Debug\net5.0\ClassLibraryResumeProvider.dll
 C:\Users\ASUS\source\repos\ClassLibraryResumeProvider\ClassLibraryResumeProvider\obj\Debug\net5.0\ref\ClassLibraryResumeProvider.dll
 C:\Users\ASUS\source\repos\ClassLibraryResumeProvider\ClassLibraryResumeProvider\obj\Debug\net5.0\ClassLibraryResumeProvider.pdb
+C:\Users\ASUS\source\repos\Sequential Component Composition\ClassLibraryResumeProvider\ClassLibraryResumeProvider\bin\Debug\net5.0\ClassLibraryResumeProvider.deps.json
+C:\Users\ASUS\source\repos\Sequential Component Composition\ClassLibraryResumeProvider\ClassLibraryResumeProvider\bin\Debug\net5.0\ClassLibraryResumeProvider.dll
+C:\Users\ASUS\source\repos\Sequential Component Composition\ClassLibraryResumeProvider\ClassLibraryResumeProvider\bin\Debug\net5.0\ref\ClassLibraryResumeProvider.dll
+C:\Users\ASUS\source\repos\Sequential Component Composition\ClassLibraryResumeProvider\ClassLibraryResumeProvider\bin\Debug\net5.0\ClassLibraryResumeProvider.pdb
+C:\Users\ASUS\source\repos\Sequential Component Composition\ClassLibraryResumeProvider\ClassLibraryResumeProvider\obj\Debug\net5.0\ClassLibraryResumeProvider.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Sequential Component Composition\ClassLibraryResumeProvider\ClassLibraryResumeProvider\obj\Debug\net5.0\ClassLibraryResumeProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Sequential Component Composition\ClassLibraryResumeProvider\ClassLibraryResumeProvider\obj\Debug\net5.0\ClassLibraryResumeProvider.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Sequential Component Composition\ClassLibraryResumeProvider\ClassLibraryResumeProvider\obj\Debug\net5.0\ClassLibraryResumeProvider.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Sequential Component Composition\ClassLibraryResumeProvider\ClassLibraryResumeProvider\obj\Debug\net5.0\ClassLibraryResumeProvider.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Sequential Component Composition\ClassLibraryResumeProvider\ClassLibraryResumeProvider\obj\Debug\net5.0\ClassLibraryResumeProvider.dll
+C:\Users\ASUS\source\repos\Sequential Component Composition\ClassLibraryResumeProvider\ClassLibraryResumeProvider\obj\Debug\net5.0\ref\ClassLibraryResumeProvider.dll
+C:\Users\ASUS\source\repos\Sequential Component Composition\ClassLibraryResumeProvider\ClassLibraryResumeProvider\obj\Debug\net5.0\ClassLibraryResumeProvider.pdb

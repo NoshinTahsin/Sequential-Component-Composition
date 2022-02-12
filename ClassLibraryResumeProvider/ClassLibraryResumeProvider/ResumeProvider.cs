@@ -8,8 +8,9 @@ namespace ClassLibraryResumeProvider
     {
         public String provideResume()
         {
-
-            return "Returned list of collected resumes.";
+            String allResumeList = "All Collected Resumes";
+            Console.WriteLine("Providing list of "+allResumeList+"...");
+            return allResumeList;
 
         }
 
