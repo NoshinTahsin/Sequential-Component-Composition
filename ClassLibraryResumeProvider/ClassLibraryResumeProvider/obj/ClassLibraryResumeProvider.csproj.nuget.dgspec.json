@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\ClassLibraryResumeCollector\\ClassLibraryResumeCollector\\ClassLibraryResumeProvider.csproj": {}
+    "C:\\Users\\ASUS\\source\\repos\\ClassLibraryResumeProvider\\ClassLibraryResumeProvider\\ClassLibraryResumeProvider.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\ClassLibraryResumeCollector\\ClassLibraryResumeCollector\\ClassLibraryResumeProvider.csproj": {
+    "C:\\Users\\ASUS\\source\\repos\\ClassLibraryResumeProvider\\ClassLibraryResumeProvider\\ClassLibraryResumeProvider.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\ClassLibraryResumeCollector\\ClassLibraryResumeCollector\\ClassLibraryResumeProvider.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\ClassLibraryResumeProvider\\ClassLibraryResumeProvider\\ClassLibraryResumeProvider.csproj",
         "projectName": "ClassLibraryResumeProvider",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\ClassLibraryResumeCollector\\ClassLibraryResumeCollector\\ClassLibraryResumeProvider.csproj",
+        "projectPath": "C:\\Users\\ASUS\\source\\repos\\ClassLibraryResumeProvider\\ClassLibraryResumeProvider\\ClassLibraryResumeProvider.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\ClassLibraryResumeCollector\\ClassLibraryResumeCollector\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\source\\repos\\ClassLibraryResumeProvider\\ClassLibraryResumeProvider\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

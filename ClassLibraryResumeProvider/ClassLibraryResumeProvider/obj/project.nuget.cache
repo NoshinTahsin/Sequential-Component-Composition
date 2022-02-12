@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fqxKqy6mfOhGDfBdVM43LLi5VUpFroM7RnwzwW2dd4kGrkA8u9KDVBNrp6QSgy4+ICLzhpSHCTst8ZbJm/lpWA==",
+  "dgSpecHash": "rdyFECDX1q+zdm0f50E9MOQnHGbCzK6nRhZKw7+NJlRnh6vnRk3tmdoYRlrABMjp2n67FHRMAJ9vMRUbtGFvjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\ClassLibraryResumeCollector\\ClassLibraryResumeCollector\\ClassLibraryResumeProvider.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\ClassLibraryResumeProvider\\ClassLibraryResumeProvider\\ClassLibraryResumeProvider.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
