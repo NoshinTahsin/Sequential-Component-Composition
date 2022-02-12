@@ -4,6 +4,6 @@ namespace ClassLibraryInitialScreening
 {
     public interface IInitialScreening
     {
-        public String provideSelected();
+        public String provideSelected(String AllResumeList);
     }
 }

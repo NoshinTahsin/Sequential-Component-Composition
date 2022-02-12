@@ -2,11 +2,11 @@
 
 namespace ClassLibraryInitialScreening
 {
-    public class InitialScreening
+    public class InitialScreening:IInitialScreening
     {
-        public String provideSelected()
+        public String provideSelected(String AllResumeList)
         {
-            return "Provide selected resume list after initial screening.";
+            return "Provide selected resume list after initial screening of the " + AllResumeList;
         }
     }
 }
