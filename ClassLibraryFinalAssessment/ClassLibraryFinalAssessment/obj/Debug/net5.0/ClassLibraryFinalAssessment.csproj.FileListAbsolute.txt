@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\ClassLibraryFinalAssessment\ClassLibraryFinalAssessment\bin\Debug\net5.0\ClassLibraryFinalAssessment.deps.json
+C:\Users\ASUS\source\repos\ClassLibraryFinalAssessment\ClassLibraryFinalAssessment\bin\Debug\net5.0\ClassLibraryFinalAssessment.dll
+C:\Users\ASUS\source\repos\ClassLibraryFinalAssessment\ClassLibraryFinalAssessment\bin\Debug\net5.0\ref\ClassLibraryFinalAssessment.dll
+C:\Users\ASUS\source\repos\ClassLibraryFinalAssessment\ClassLibraryFinalAssessment\bin\Debug\net5.0\ClassLibraryFinalAssessment.pdb
+C:\Users\ASUS\source\repos\ClassLibraryFinalAssessment\ClassLibraryFinalAssessment\obj\Debug\net5.0\ClassLibraryFinalAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ClassLibraryFinalAssessment\ClassLibraryFinalAssessment\obj\Debug\net5.0\ClassLibraryFinalAssessment.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ClassLibraryFinalAssessment\ClassLibraryFinalAssessment\obj\Debug\net5.0\ClassLibraryFinalAssessment.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ClassLibraryFinalAssessment\ClassLibraryFinalAssessment\obj\Debug\net5.0\ClassLibraryFinalAssessment.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ClassLibraryFinalAssessment\ClassLibraryFinalAssessment\obj\Debug\net5.0\ClassLibraryFinalAssessment.dll
+C:\Users\ASUS\source\repos\ClassLibraryFinalAssessment\ClassLibraryFinalAssessment\obj\Debug\net5.0\ref\ClassLibraryFinalAssessment.dll
+C:\Users\ASUS\source\repos\ClassLibraryFinalAssessment\ClassLibraryFinalAssessment\obj\Debug\net5.0\ClassLibraryFinalAssessment.pdb
